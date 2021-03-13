@@ -12,6 +12,7 @@ In this project, I have explored the astrophysical diversity in data from the K2
 
 
 
+
 ## New title
 
 In this project, I have explored the astrophysical diversity in data from the K2 mission. I have developed a program that effectively extracts photometric light curves for the targets of interest. For a further photometric improvement, a filter designed for the Kepler missions was added. The functionality of the combined routine was evident from our independent discovery of an exoplanet candidate as well as several variable stars. A detailed analysis of the planet candidate suggests a hot Jupiter-sized planet due to its radius and semimajor axis of $R_p=1.08 \jup{R}$ and $a=0.04 \si{AU}$, respectively. However, future studies are needed in order to confirm the planet interpretation."
