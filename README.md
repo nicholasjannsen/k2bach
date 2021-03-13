@@ -1,7 +1,9 @@
 # k2bach
 
-Title and Abstract
 ---
+
+## Title and Abstract
+
 K2: A Search for Exoplanets and Variable Stars
 
 "The space telescope Kepler has with its extremely high photometric precision revolutionized the studies of exoplanets. With the initiation in 2014 of the new mode of observation called the K2 mission, the photometric quality did however decrease due to the spacecraft's inability to point precisely. However, the K2 mission provides an opportunity to continue Kepler's groundbreaking discoveries in the field of planetary science. Furthermore, it became the foundation for many new and exiting astrophysical studies. 
